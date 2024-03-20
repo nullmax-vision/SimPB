@@ -1,7 +1,9 @@
 <div align="center">
 <h1>SimPB</h1>
 <h3> SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras </h3>
+ 
 [ArXiv Preprint](https://arxiv.org/abs/2403.10353)
+
 </div>
 
 
