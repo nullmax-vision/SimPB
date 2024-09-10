@@ -35,8 +35,8 @@ Thanks to these excellent open-source works:
 
 [Sparse4Dv3](https://github.com/HorizonRobotics/Sparse4D),
 [StreamPETR](https://github.com/exiawsh/StreamPETR),
+[SparseBEV](https://github.com/MCG-NJU/SparseBEV),
 [Far3D](https://github.com/megvii-research/Far3D),
-[SparseBEV](https://github.com/MCG-NJU/SparseBEV/tree/main),
 [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
 
 ## Citation
