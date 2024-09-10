@@ -33,7 +33,7 @@ Note: SimPB+ is a modified architecture that introduces 2d denoise and removes t
 ## Acknowledgement
 Thanks to these excellent open-source works:
 
-[Sparse4Dv3](https://github.com/WangYueFt/detr3d),
+[Sparse4Dv3](https://github.com/HorizonRobotics/Sparse4D),
 [StreamPETR](https://github.com/exiawsh/StreamPETR),
 [Far3D](https://github.com/megvii-research/Far3D),
 [SparseBEV](https://github.com/MCG-NJU/SparseBEV/tree/main),
