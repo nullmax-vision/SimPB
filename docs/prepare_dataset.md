@@ -8,11 +8,11 @@ ln -s path/to/nuscenes ./data/nuscenes
 ```
 **3. Convert nuscenes dataset**
 ```bash
-python tools/data_converter/nuscenes_converter.py --info_prefix==./data/nuscenes/simpb_nuscenes
+python tools/data_converter/nuscenes_converter.py --info_prefix ./data/nuscenes/simpb_nuscenes
 ```
 ### Kmean Anchors
 ```bash
-python tools/anchor_generator.py ./data/nuscenes/simpb_nuscenes_infos_train.pkl
+python tools/anchor_generator.py --ann_file ./data/nuscenes/simpb_nuscenes_infos_train.pkl
 ```
 
 **Folder structure**

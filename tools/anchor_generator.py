@@ -9,7 +9,7 @@ def get_kmeans_anchor(
     ann_file,
     num_anchor=900,
     detection_range=55,
-    output_file_name="kmeans900.npy",
+    output_file_name="nuscenes_kmeans900.npy",
     verbose=False,
 ):
     data = mmcv.load(ann_file, file_format="pkl")

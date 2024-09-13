@@ -16,7 +16,7 @@ bash ./tools/dist_train.sh ./projects/configs/simpb_nus_r50_img_704x256.py 8 --n
 ## Test
 **1. Download pretrained model**
 
-download pretrained model [here](https://github.com/nullmax-vision/SimPB/releases/download/untagged-57f40bcb241e19ede053/simpb_r50_img.pth), or use your own training weight
+download pretrained model [here](https://github.com/nullmax-vision/SimPB/releases/download/weights/simpb_r50_img.pth), or use your own training weight
 
 **2. Evaluate the pretrained model**
 ```bash
