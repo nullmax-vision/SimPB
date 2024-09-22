@@ -27,6 +27,7 @@ def filter_info2d(input_dict, mask):
         input_dict['gt_labels_2d'][cam_idx] = input_dict['gt_labels_2d'][cam_idx][mask_2d]
         input_dict['gt_centers_2d'][cam_idx] = input_dict['gt_centers_2d'][cam_idx][mask_2d]
         input_dict['gt_depths_2d'][cam_idx] = input_dict['gt_depths_2d'][cam_idx][mask_2d]
+        input_dict['gt_alphas_2d'][cam_idx] = input_dict['gt_alphas_2d'][cam_idx][mask_2d]
         input_dict['gt_2d_3d_map'][cam_idx] = trans_index[input_dict['gt_2d_3d_map'][cam_idx][mask_2d]]
 
     return input_dict
